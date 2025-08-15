@@ -11,6 +11,6 @@ Simple Vue project using Vuex and authentication with route configuration
 
 Here is the UI:
 
-![UI Login]()
-![UI Home]()
-![UI Update]()
+![UI Login](https://github.com/RonaldGustavo/simple-project-vue/blob/master/src/assets/login.png)
+![UI Home](https://github.com/RonaldGustavo/simple-project-vue/blob/master/src/assets/landing.png)
+![UI Update](https://github.com/RonaldGustavo/simple-project-vue/blob/master/src/assets/update.png)
