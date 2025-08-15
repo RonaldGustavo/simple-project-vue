@@ -1,24 +1,16 @@
-# simple-project-vue
+# Simple Project vue
+Simple Vue project using Vuex and authentication with route configuration
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🚀 Tech Stack Used
+- **Vue.js** – Progressive JavaScript framework for building user interfaces and single-page applications  
+- **Vuex** – State management library for Vue.js to manage and share data across components  
+- **Vue Router** – Official routing library for Vue.js to create and manage navigation between views 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## ✨ UI Preview
 
-### Lints and fixes files
-```
-npm run lint
-```
+Here is the UI:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![UI Login]()
+![UI Home]()
+![UI Update]()
